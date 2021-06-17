@@ -1,4 +1,4 @@
-# Simple Supermario Game
+# Simple Supermario Game - in progress
 
 Summer 2021 - learning JavaScript
 
