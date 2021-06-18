@@ -1,6 +1,6 @@
 # Simple Supermario Game - in progress
 
-Summer 2021 - learning JavaScript
+Summer 2021 - playing with JavaScript
 
 __________
 
